@@ -48,11 +48,20 @@ table {
 }
 
 /*Custom CSS*/
+@media (max-width: 600px) {
+    
 
 label {
     display: block;
 }
 
+input, textarea {
+    margin-bottom: 1em;
+}
+
 #formWrapper {
     margin: 1em;
+    
+}
+    
 }
