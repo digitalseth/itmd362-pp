@@ -48,8 +48,9 @@ table {
 }
 
 /*Custom CSS*/
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 @media (max-width: 600px) {
-    
+   
 
 label {
     display: block;
