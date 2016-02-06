@@ -52,3 +52,7 @@ table {
 label {
     display: block;
 }
+
+#formWrapper {
+    margin: 1em;
+}
