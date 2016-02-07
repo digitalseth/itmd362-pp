@@ -57,6 +57,7 @@ label {
 
 input, textarea {
     margin-bottom: 1em;
+    min-width: 15em;
 }
 
 #formWrapper {
