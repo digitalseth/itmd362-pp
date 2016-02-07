@@ -60,7 +60,9 @@ input, textarea {
     min-width: 15em;   
 }
 
-
+#submit {
+    height: 4em;
+}
 
 #formWrapper {
     margin: 1em;
