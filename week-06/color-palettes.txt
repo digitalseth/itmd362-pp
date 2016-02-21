@@ -25,8 +25,8 @@ Explanation of your color choices: I wanted to go with a pallete that evoked nat
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: complementary.png
+Explanation of your color choices: A finanical institution wants to have an image of trust and steadfastness. I picked a pallete that relaxes with a touch of blue, but portrays foundational strength in its dark grey and brown shades. This pallette doesn't look like it's messing around. I don't want my bank messing around.
 
 * A triadic palette for a website that offers games for children.
 
