@@ -20,8 +20,8 @@ Explanation of your color choices: Gaming computers are supposed to be fast, lik
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename: 
-Explanation of your color choices: 
+Filename: shaded.png
+Explanation of your color choices: I wanted to go with a pallete that evoked nature and freshness. Somewhat muted green tones serve this purpose well. Too much brighter and it starts to feel like easter. Too much more towards the blue side and I feel the ocean.
 
 * A complementary palette for a banking website.
 
