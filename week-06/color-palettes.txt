@@ -30,5 +30,5 @@ Explanation of your color choices: A finanical institution wants to have an imag
 
 * A triadic palette for a website that offers games for children.
 
-Filename: 
-Explanation of your color choices:
+Filename: triadic.png
+Explanation of your color choices: I chose mostly bright, high-chroma colors that would catch a kid's attention. 3 strong colors: black, orange, greeen, and blue, make for a bright, playful feel. And intead of having a pure white to go with this set, there is a quiet lavender-ish tone that brings a hint of calm to the palette.  
