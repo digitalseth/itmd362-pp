@@ -15,12 +15,12 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: monochromatic.png 
+Explanation of your color choices: Gaming computers are supposed to be fast, like a sports car. There is some type of societal association with fast cars being red so I give you a red theme. I didn't like all the colors being red, so I set a strong beige to get a strong, grounded, natural feeling. 
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
+Filename: 
 Explanation of your color choices:
 
 * A complementary palette for a banking website.
@@ -30,5 +30,5 @@ Explanation of your color choices:
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
+Filename: 
 Explanation of your color choices:
