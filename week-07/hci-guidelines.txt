@@ -32,5 +32,5 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * HCI Guidline Two (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742486(v=vs.85).aspx
 * How you implemented it in your sketch: I used screen space effectively and made sure not to cram too much information into one space
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://msdn.microsoft.com/library/windows/desktop/dn742399.aspx
+* How you implemented it in your sketch: I indicated to the user that they had caps lock on with an unobtrusive, friendly popup
