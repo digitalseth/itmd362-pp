@@ -26,8 +26,8 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742468(v=vs.85).aspx
+* How you implemented it in your sketch: Made sure the most commonly used buttons were large, at least 40x40px, with a 5px margin around the element.
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
