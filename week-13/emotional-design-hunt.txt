@@ -1,4 +1,4 @@
-# Production Problem 8: Emotional Design Hunt
+﻿# Production Problem 8: Emotional Design Hunt
 
 ## The Problem
 
@@ -12,14 +12,14 @@ A. Photograph of the object (place in the week-12/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: Ths wooden box has a raised panel on top and beautifully crafted interlocking corners. It is stained with a dark color and has a small latch on the front that serves more as decoration than a practical locking mechanism.
 
-* Behavioral:
+* Behavioral: This box has the ability to be a storage device. I use it to store things that have emotional meaning attached to them. I have a thank you note given to me, a wine cork from a beautiful night, and an award I won for campus life involvement. It is not the most functionally useful piece of equipment because it opens from the top and limits the places it can be stored. So I put things in it that aren't accessed frequently.
 
-* Reflective:
+* Reflective: The box has special meaning to me because it was a gift from somone I worked with before I left for Chicago. He knew of my technical leanings and put a note in the box to remind me to look at the bigger picture. "Seth, not all things that are important to us can be stored in a comuter's memory. May 2014 be all you want it to be. -Dave" This box reminds me of Dave, the person, and the times we had working at the hardware store together.
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
+1. 
+2. 
 3.
