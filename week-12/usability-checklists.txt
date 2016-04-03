@@ -13,13 +13,14 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. There is a clear visual hierarchy of heads, and subheads, options,
+and labels on each page
+2. Paragraphs are short
+3. Font size is legible
+4. Page has a sufficient amount of whitespace (padding inside elements must not feel claustrophobic)
+5. Color scheme is consistent site-wide
+6. All major parts of the site are acesible from the home page
+7. Site uses mobile screens effectively (not wasting valuable space on padding or huge logos)
+8. Visitors can tell in 2 seconds or less what the site is about
+9. Pages load quickly (images are compressed)
+10. Site looks same/similar on all popular web browsers
