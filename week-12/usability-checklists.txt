@@ -8,12 +8,12 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. https://web.wsu.edu/wp-content/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf
+2. http://www.businessknowhow.com/marketing/webchecklist.htm
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
+1. 
 2.
 3.
 4.
