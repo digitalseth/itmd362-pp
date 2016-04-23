@@ -1,0 +1,17 @@
+# Production Problem 9: A/B Testing on the Cheap
+
+## The Problem
+
+Locate an interface component on some website that you use frequently that you think could be improved. The improvement should be minor, as we discussed in class.
+
+Take a screenshot of the interface on both a mobile and desktop device. Then, sketch or illustrate your alternate/"b" test. Finally, describe modification and the HTML, CSS, and JavaScript that you would need to write in order to conduct the test.
+
+## Deliverables
+
+* Screenshots of the interface component on mobile and desktop, placed in this directory (`week-15`)
+
+* Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
+
+* A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+When someone posts a listing without their contact information in the body of the post, the "reply" button is the only way to contact them. Right now, it is not obvious where to look. I would change the wording of the "reply" button to read "Contact". I'd also make the button bigger and more colorful to encourage communication between parties. The HTML value attribute would need to be changed on the button to change the wording. I would also modify the height, width, and background color CSS properties. To randomly display the different button to cusomters, I could use a function like we discussed in class which randomly diplays the old or new button half of the time. Then I'd create a click metric on the button to measure the difference between styles. This could be one with an incrementing variable in Javascript.
